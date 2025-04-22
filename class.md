@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Kapil Samant  
+- Certification: Meta Android Developer Pro Cert
 
 ## Instructions
 Please replace the placeholders with your details:
